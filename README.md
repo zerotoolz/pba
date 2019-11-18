@@ -1,2 +1,2 @@
-# pba
-Proof-of-concept (PoC) biometric based decentralized digital identifiers 
+# Proof-of-concept (PoC) biometric based decentralized digital identifiers
+ 
