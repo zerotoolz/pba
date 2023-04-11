@@ -6,3 +6,5 @@ This repository was created for research paper: Proof-of-concept (PoC) biometric
 -Images which used for experiment
 -haarcascade file
 and recorded blockchain transactions as scenario.json
+
+IDC 2022: Intelligent Distributed Computing XV poster result https://link.springer.com/chapter/10.1007/978-3-031-29104-3_14
